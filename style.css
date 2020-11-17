@@ -1,4 +1,7 @@
-  <style>
+ <head>
+  <link rel="stylesheet" href="style.css"> 
+</head>
+<style>
     h1{
   color: turquoise;
   text-align: center;
