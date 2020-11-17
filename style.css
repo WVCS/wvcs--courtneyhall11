@@ -1,0 +1,46 @@
+  <style>
+    h1{
+  color: turquoise;
+  text-align: center;
+}
+
+body {
+  background-color:  pink;
+}
+    ul {
+  list-style-type: none
+    margin: 0;
+  padding: 0;
+  background-color: turquoise;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  left: 0;
+}
+
+li {
+  text-align: center;
+  width: 60px;
+  padding: 50px 50px;
+  display: block;
+  text-decoration: none;
+  display: inline;
+}
+li a:hover
+  
+    <style>
+    
+    </html> 
+    
+<html>
+
+   <body>
+
+       <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="test.html">Apps</a></li>
+      <li><a href="https://www.code.org">Code.org<a/></li>
+      <li><a href="#about">About</a></li>
+     </ul>  
+  
+   </body>  
