@@ -8,12 +8,12 @@ body {
 }
 
 /* ------ Nav Bar style ------ */
-     ul {
+    ul {
 display: inline-block;
 list-style-type: none
 margin: 0;
 padding: 0;
-background-color: turquoise;
+background-color: navy;
   position: fixed;
   top: 0;
   width: 100%;
@@ -23,8 +23,8 @@ background-color: turquoise;
 li {
 float: left;
   text-align: center;
-  width: 50px;
-  padding: 25px 60px;
+  width: 100px;
+  padding: 15px 60px;
   display: block;
   text-decoration: none;
   display: inline-block;
@@ -32,8 +32,9 @@ float: left;
 li a {
 display: block;
 text-decoration: none;
-color: white;
+color: antiquewhite;
 text-align: center;
 
   li a:hover {
-    background-color: turquoise;
+    background-color: navy;
+
