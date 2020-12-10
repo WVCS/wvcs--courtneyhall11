@@ -3,10 +3,11 @@ h1{
   text-align: center;
 }
 
-/* ------ Nav Bar style ------ */
 body {
   background-color:  pink;
 }
+
+/* ------ Nav Bar style ------ */
     ul {
   list-style-type: none
     margin: 0;
