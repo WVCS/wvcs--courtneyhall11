@@ -52,6 +52,13 @@ text-align: center;
 
   li a:hover {
     background-color: navy;
+/* ------------- Nav Bar ------------*/
+     <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="apps.html">Apps</a></li>
+      <li><a href="https://www.code.org">Code.org<a/></li>
+      <li><a href="about.html">About</a></li>
+     </ul>
 
  <div class="absolute">
    <p> Welcome to my website! </p>
