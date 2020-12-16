@@ -24,19 +24,12 @@
 </html>
  
   <style>
-     h1{
-  color: turquoise;
-  text-align: center;
-}
-
-body {
-  background-color:  pink;
-}
-    ul {
-  list-style-type: none
-    margin: 0;
-  padding: 0;
-  background-color: turquoise;
+       ul {
+display: inline-block;
+list-style-type: none
+margin: 0;
+padding: 0;
+background-color: turquoise;
   position: fixed;
   top: 0;
   width: 100%;
@@ -44,14 +37,22 @@ body {
 }
 
 li {
+float: left;
   text-align: center;
-  width: 60px;
-  padding: 50px 50px;
+  width: 100px;
+  padding: 15px 60px;
   display: block;
   text-decoration: none;
-  display: inline;
+  display: inline-block;
 }
-li a:hover
+li a {
+display: block;
+text-decoration: none;
+color: white;
+text-align: center;
+
+  li a:hover {
+    background-color: turquoise;
 
   
     </style>
